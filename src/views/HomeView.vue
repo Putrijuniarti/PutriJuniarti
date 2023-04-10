@@ -1,7 +1,7 @@
 <template>
   <div class="home">
 
-    <HelloWorld msg="Dont procrastinate next time"/>
+    <HelloWorld msg="Web Profile"/>
   </div>
 </template>
 
